@@ -119,7 +119,7 @@ const Contact = () => {
             >
               Contact Information
             </motion.h3>
-            <div className="grid grid-cols-2 lg:grid-cols-1">
+            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-1">
               <div className="space-y-6 mb-10">
                 <motion.div
                   variants={itemVariants}

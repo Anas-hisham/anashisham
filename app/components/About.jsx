@@ -68,7 +68,7 @@ const About= () => {
             optimize their online marketing strategies.
           </motion.p>
         </div>
-        <div ref={ref} className="grid grid-cols-1 sm:grid-cols-2 gap-16">
+        <div ref={ref} className="grid grid-cols-1 sm:grid-cols-2 gap-16 lg:px-10">
           {/* <motion.div
             initial="hidden"
             animate={inView ? "visible" : "hidden"}
