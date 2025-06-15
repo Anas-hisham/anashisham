@@ -22,6 +22,6 @@
       "@/*": ["./*"]
     }
   },
-  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
+  "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts", "app/components/Services.jsx", "app/components/Portfolio.jsx", "app/components/Navbar.jsx", "app/components/Hero.jsx", "app/components/Footer.jsx", "app/components/Contact.jsx", "app/components/Community.jsx", "app/components/About.jsx", "app/page.jsx"],
   "exclude": ["node_modules"]
 }
